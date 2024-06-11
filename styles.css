@@ -71,18 +71,12 @@ main{
 
 .array-elements{
     background-color: aqua;
-    /* background-repeat: no-repeat; */
+    
     border-radius: 5px;
     flex-grow: 1;
     max-width: 40px;
     margin: 0px 2px;
     
-    /* transition: height 0.5s ease-in-out; */
-    /* display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    color: black;
-    font-weight: bold; */
 }
 
 /* Algorithms Container */
